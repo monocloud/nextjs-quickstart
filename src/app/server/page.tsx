@@ -1,7 +1,7 @@
-import { monoCloud } from "@/monocloud";
+import { getSession } from "@monocloud/auth-nextjs";
 
 export default async function ServerPage() {
-  const session = await monoCloud.getSession();
+  const session = await getSession();
 
   if (!session?.user) {
     return <div>Please sign in</div>;
@@ -13,4 +13,4 @@ export default async function ServerPage() {
       <pre>{JSON.stringify(session, null, 2)}</pre>
     </div>
   );
-};
+}

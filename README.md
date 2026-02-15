@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://www.monocloud.com?utm_source=github&utm_medium=nextjs_quickstart" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <img src="https://raw.githubusercontent.com/monocloud/auth-js/refs/heads/main/MonoCloud.png" height="100" alt="MonoCloud Logo">
+   <picture>
+      <img src="https://raw.githubusercontent.com/monocloud/nextjs-quickstart/refs/heads/main/banner.svg" alt="MonoCloud Banner"/>
     </picture>
   </a>
   <p><strong>Secure, simple auth for everything</strong></p>
