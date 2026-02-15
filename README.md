@@ -1,10 +1,5 @@
-<div align="center">
-  <a href="https://www.monocloud.com?utm_source=github&utm_medium=nextjs_quickstart" target="_blank" rel="noopener noreferrer">
-   <picture>
-      <img src="https://raw.githubusercontent.com/monocloud/nextjs-quickstart/refs/heads/main/banner.svg" alt="MonoCloud Banner"/>
-    </picture>
-  </a>
-  <p><strong>Secure, simple auth for everything</strong></p>
+[![MonoCloud Banner](./banner.svg)](https://www.monocloud.com?utm_source=github&utm_medium=nextjs_quickstart)
+<div align="right">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/:license-MIT-blue.svg?style=flat" alt="License: MIT" />
   </a>
@@ -12,7 +7,7 @@
 
 <br />
 
-# Next.js App Router Quickstart
+## Next.js App Router Quickstart
 
 A **minimal Next.js App Router example** showing how to add authentication with MonoCloud.
 
